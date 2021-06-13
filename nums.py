@@ -1,7 +1,5 @@
-# importing libraries
+# importing libraries (math module)
 from math import *
-
-
 
 print( 3 +4)
 x = 9-1
@@ -26,3 +24,7 @@ print(round(5.2932323))
 print(floor(5.992342340))
 
 # ceil (round up)
+print(ceil(9.324324324))
+
+#sqrt
+print(sqrt(81))

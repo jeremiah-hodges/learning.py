@@ -20,7 +20,7 @@ while notValid2:
 
 op_unsuported = True
 
-while(op_unsuported):
+while op_unsuported:
     op = input("Enter operation ")
     op = op.lower()
     if op == "add" or op == "subtract" or op == "multiply" or op == "divide":
